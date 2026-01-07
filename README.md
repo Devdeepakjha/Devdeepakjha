@@ -21,10 +21,6 @@
 ---
 
 ### 📌 Featured Projects
-🔗 **URL Shortener (Backend)**  
-- REST API built with Node.js & Express  
-- MongoDB for persistent storage  
-- Clean routing and MVC-style structure  
 
 🔗 **Notes Editor (CRUD App)**  
 - CRUD operations using arrays as data storage  
