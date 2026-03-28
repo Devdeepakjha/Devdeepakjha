@@ -1,48 +1,94 @@
-<h1 align="center">Hi, I'm Deepak Jha 👋</h1>
-<h3 align="center">B.Tech CSE | Aspiring Software Engineer
+<h1 align="center">✨ Hey, I'm Deepak Jha 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Building+cool+things...;Learning+systems%2C+shipping+projects.;Light+mind.+Sharp+focus." alt="Typing SVG" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="300" />
+</p>
+---
+
+<h3 align="center">⚡ B.Tech CSE Student | Backend-Focused Developer</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mumbai-0f172a?style=for-the-badge&logo=googlemaps&logoColor=38bdf8" />
+  <img src="https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=22c55e" />
+  <img src="https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=ef4444" />
+  <img src="https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=22c55e" />
+</p>
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 B.Tech Computer Science student (Batch of 2028)  
-- 📍 Mumbai, India  
-- 💡 Interested in backend engineering and large-scale systems  
-- 📚 Currently strengthening **DSA, C++, and Backend Development**    
+## 🧠 About Me
+
+- 🎓 B.Tech CSE student  
+- ⚙️ Building with **Node.js, Express, MongoDB, Redis**
+- 📚 Learning **DSA, C++, backend systems**
+- 🧠 Interested in **clean architecture, APIs, and scalable logic**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="35" />
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="35" />
+</p>
+
+<p align="center">
+  <em>Quiet work. Visible results.</em>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-- **Languages:** C++, JavaScript  
-- **Backend:** Node.js, Express.js  
-- **Databases:** MongoDB (basic), In-memory data structures  
-- **Core CS:** Data Structures & Algorithms, OOPs  
-- **Tools:** Git, GitHub, VS Code, Postman  
+## 🚀 Featured Work
+
+### 🔹 OrderSystemProject  
+**A production-style backend for authentication, cart, orders, admin control, Redis protection, and scalable API workflows.**
+
+### 🔹 Edemy  
+**A learning-focused project built to sharpen full-stack thinking and real-world implementation.**
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="38" />
+  <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="38" />
+</p>
 
 ---
 
-### 📌 Featured Projects
+## 🛠️ Stack
 
-🔗 **Notes Editor (CRUD App)**  
-- CRUD operations using arrays as data storage  
-- Focused on logic building and backend fundamentals  
-
-_(More improvements and features in progress 🚧)_
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,javascript,nodejs,express,mongodb,redis,docker,git,github,vscode,postman" />
+</p>
 
 ---
 
-### 📈 What I’m Working On
-- Improving problem-solving skills (DSA)
-- Learning authentication & security basics
-- Writing clean, readable, and scalable backend code
+## 📊 GitHub Pulse
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devdeepakjha&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF&text_color=c9d1d9" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Devdeepakjha&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devdeepakjha&layout=compact&theme=tokyonight&hide_border=true&title_color=00F7FF&text_color=c9d1d9" height="160" />
+</p>
 
 ---
 
-### 🌐 Connect With Me
-- 💼 LinkedIn: [linkedin.com/in/deepak-jha-devx](https://www.linkedin.com/in/deepak-jha-devx)
-- 🧑‍💻 GitHub: [github.com/Devdeepakjha](https://github.com/Devdeepakjha)
+## 🌐 Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/deepak-jha-devx">
+    <img src="https://img.shields.io/badge/LinkedIn-Deepak%20Jha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/Devdeepakjha">
+    <img src="https://img.shields.io/badge/GitHub-Devdeepakjha-111827?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
 
 ---
 
 <p align="center">
-  <em>“Learning by building, failing, and improving every day.”</em>
+  <em>Not here to look busy.</em>
 </p>
