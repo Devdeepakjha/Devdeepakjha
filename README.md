@@ -43,7 +43,7 @@
 ## 🚀 Featured Work
 
 ### 🔹 Edemy  
-**A learning-focused project built to sharpen full-stack thinking and real-world implementation.**  
+**A full-stack LMS platform with course-based frontend and deployed backend API.**  
 - Frontend: [https://lms-frontend-amber-sigma.vercel.app/](https://lms-frontend-amber-sigma.vercel.app/)
 - Backend API: [https://lms-backend-chi-henna.vercel.app](https://lms-backend-chi-henna.vercel.app)
 
