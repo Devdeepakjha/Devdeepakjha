@@ -42,11 +42,17 @@
 
 ## 🚀 Featured Work
 
+### 🔹 Edemy  
+**A learning-focused project built to sharpen full-stack thinking and real-world implementation.**  
+- Frontend: [https://lms-frontend-amber-sigma.vercel.app/](https://lms-frontend-amber-sigma.vercel.app/)
+- Backend API: [https://lms-backend-chi-henna.vercel.app](https://lms-backend-chi-henna.vercel.app)
+
+### 🔹 react-food-delivery-app  
+**A modern and responsive food delivery frontend built with React.js and Bootstrap.**  
+- Live Demo: [https://react-food-delivery-app-two-pied.vercel.app/](https://react-food-delivery-app-two-pied.vercel.app/)
+
 ### 🔹 OrderSystemProject  
 **A production-style backend for authentication, cart, orders, admin control, Redis protection, and scalable API workflows.**
-
-### 🔹 Edemy  
-**A learning-focused project built to sharpen full-stack thinking and real-world implementation.**
 
 <p align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="38" />
